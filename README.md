@@ -11,7 +11,7 @@
 <br>
 
 ##
-  <h2>🍌 Integrantes</h2>
+  <h2>Integrantes</h2>
    <a href="https://linktr.ee/agiliza_" target="_blank"><img width="900px" src="img/grupo.png" /></a>
 </div>
 <!--![grupo](https://github.com/Agiliza9/agiliza_/assets/153327790/97bd36a6-9734-428e-926b-50eeb5593aa0) -->
