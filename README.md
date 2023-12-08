@@ -16,5 +16,5 @@
 <h3 align="center">:writing_hand:	Fale conosco</h3>
 <br>
 <div align="center">
-<a href="https://[[https://https://linktr.ee/agiliza_"><img src="img/Linktree.svg" width="80px"></a>
+<a href="https://https://linktr.ee/agiliza_"><img src="img/Linktree.svg" width="80px"></a>
 </div>
